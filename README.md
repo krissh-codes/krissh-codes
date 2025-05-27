@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/banner.svg" alt="Krish" /></p>
 
 <p align="center">
-	<a href="mailto:krissh.the.dev@gmail.com" target="_blank" align="center">Send Email</a> |
+	<a href="mailto:me@krissh.dev" target="_blank" align="center">Send Email</a> |
 	<a href="https://krissh.dev" target="_blank" align="center">Portfolio</a> |
 	<a href="https://polywork.com/krissh_the_dev" target="_blank" align="center">Polywork</a>
 </p>
@@ -44,14 +44,11 @@
 <details align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
-		👋 Hello, world! I am Krish, a Professional Sofware Engineer from Chennai, India. I love to code and design 👨🏼‍💻. I build high-quality applications for the web. I concentrate on writing clean, maintainable and testable code.
+		👋 Hello, world! I am Krissh, a seasoned Software Engineer from Chennai, India. I love to code and design 👨🏼‍💻. I build high-quality applications for the web. I concentrate on writing clean, maintainable, and testable code.
 
-Currently, I'm working as a Software Developer at <a href="https://zoho.com">Zoho Corporation Private Limited</a>. I pursued my undergrads 👨‍🎓 in Computer Science Engineering at the <a href="http://aubit.edu.in">University College of Engineering, Trichy</a>. I'm always looking for new opportunities to learn and grow.
+Currently, I'm working as a Software Developer at <a href="https://zoho.com">Zoho Corporation Private Limited</a>. I pursued my undergrads 👨‍🎓 in Computer Science Engineering at the <a href="http://aubit.edu.in">University College of Engineering, Trichy</a>.
 
-Other than coding, I'm passionate about Astronomy 🌌 and bicycling 🚴‍♂️. I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially Hollywood and series like <a href="https://www.netflix.com/in/title/70143830?source=35">The Big Bang Theory</a> and <a href="https://www.hotstar.com/in/tv/silicon-valley/8210?utm_source=gwa">Silicon Valley</a>. I like listening to Pop and Rock music 🎶. My favorite singer is <a href="https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP">Troye Sivan</a>. I love cats 😼, although I don’t have one.  <br /><br />
-
-I’m more of a casual person, I regard everybody as a fellow human, regardless of their socio-political and / or economic status. I strongly support equality; equality among genders, race, sexuality, religion, cast etc. I believe people should be valued equally regardless of their birth.  <br /><br />
-		Other than all these, I love talking to people! So maybe slide into my DM?
+Other than coding, I'm passionate about Astronomy 🌌. I like to cook 🍳 in my leisure time. I spend most of my time building something I like, when I'm not working on a side project, I'll probably be watching movies 🎥, especially Hollywood and series like <a href="https://www.netflix.com/in/title/70143830?source=35">The Big Bang Theory</a> and <a href="https://www.hotstar.com/in/tv/silicon-valley/8210?utm_source=gwa">Silicon Valley</a>. I like listening to Pop and Rock music 🎶. My favorite singer is <a href="https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP">Troye Sivan</a>. I love cats 😼, although I don’t have one.  <br /><br />
 	</p>
 <hr />
 <details>
