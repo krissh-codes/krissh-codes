@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/banner.svg" alt="Krish" /></p>
+<p align="center"><img align="center" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/banner.svg" alt="Krish" /></p>
 
 <p align="center">
 	<a href="mailto:me@krissh.dev" target="_blank" align="center">Send Email</a> |
@@ -9,12 +9,12 @@
 <!--- Removed
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/krissh_the_dev" align="center" target="blank">
+<a href="https://twitter.com/krissh_tweets" align="center" target="blank">
 	<img src="https://img.shields.io/twitter/follow/krissh_the_dev?logo=twitter&style=for-the-badge" alt="krissh_the_dev" />
 </a>
 
-<a href="https://www.linkedin.com/in/krissh-the-dev/" align="center" target="blank">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="krissh-the-dev" />
+<a href="https://www.linkedin.com/in/krissh-connects/" align="center" target="blank">
+	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="krissh-codes" />
 </a>
 </p>
 <hr />
@@ -22,21 +22,21 @@
 <!-- Streak
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krissh-the-dev&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krissh-the-dev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krissh-codes&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krissh-codes" />
 </a>
 </p>
 
 <!-- Activity graph
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=krissh-the-dev&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=krissh-codes&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
 </a>
 </p>
 
 <br />
 
 <!-- Trophies
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=krissh-the-dev&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krissh-the-dev" /></a> </p>
+<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=krissh-codes&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krissh-codes" /></a> </p>
 
 <hr />
 --->
@@ -58,55 +58,55 @@ Other than coding, I'm passionate about Astronomy 🌌. I like to cook 🍳 in m
 	<table align="center">
 		<tr align="center">
 			<td align="center" width="96">
-				<img align="center" alt="HTML5" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/html.svg" />
+				<img align="center" alt="HTML5" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/languages/html.svg" />
 				<br />HTML
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="CSS3" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/css.svg" />
+				<img align="center" alt="CSS3" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/languages/css.svg" />
 				<br />CSS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="JS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/javascript-rounded.svg" />
+				<img align="center" alt="JS" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/languages/javascript-rounded.svg" />
 				<br />JS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="TS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/typescript.svg" />
+				<img align="center" alt="TS" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/languages/typescript.svg" />
 				<br />TS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Sass" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/sass.svg" />
+				<img align="center" alt="Sass" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/libraries/sass.svg" />
 				<br />Sass
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Styled components" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/styled-components.svg" />
+				<img align="center" alt="Styled components" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/libraries/styled-components.svg" />
 				<br />Styled
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Java" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/java.svg" />
+				<img align="center" alt="Java" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/languages/java.svg" />
 				<br />Java
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Python" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/python.svg" />
+				<img align="center" alt="Python" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/languages/python.svg" />
 				<br />Python
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="NodeJS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/nodejs.svg" />
+				<img align="center" alt="NodeJS" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/libraries/nodejs.svg" />
 				<br />NodeJS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="NestJS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/nestjs.svg" />
+				<img align="center" alt="NestJS" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/libraries/nestjs.svg" />
 				<br />NestJS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="React" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/react.svg" />
+				<img align="center" alt="React" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/libraries/react.svg" />
 				<br />React
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="NextJS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/next-js.svg" />
+				<img align="center" alt="NextJS" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/libraries/next-js.svg" />
 				<br />NextJS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Jest" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/jest.svg" />
+				<img align="center" alt="Jest" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/libraries/jest.svg" />
 				<br />Jest
 			</td>
 		</tr>
@@ -117,39 +117,39 @@ Other than coding, I'm passionate about Astronomy 🌌. I like to cook 🍳 in m
 	<table>
 		<tr>
 			<td align="center" width="96">
-				<img align="center" alt="mongodb" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/mongodb.svg" />
+				<img align="center" alt="mongodb" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/tools/mongodb.svg" />
 				<br />MongoDB
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="sequelize orm" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/sequelize.svg" />
+				<img align="center" alt="sequelize orm" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/tools/sequelize.svg" />
 				<br />Sequelize
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="auth0" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/auth0.svg" />
+				<img align="center" alt="auth0" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/tools/auth0.svg" />
 				<br />Auth0
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="figma" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/figma.svg" />
+				<img align="center" alt="figma" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/tools/figma.svg" />
 				<br />Figma
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="heroku" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/heroku.svg" />
+				<img align="center" alt="heroku" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/tools/heroku.svg" />
 				<br />Heroku
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="netlify" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/netlify.svg" />
+				<img align="center" alt="netlify" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/tools/netlify.svg" />
 				<br />Netlify
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="vercel" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/vercel.svg" />
+				<img align="center" alt="vercel" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/tools/vercel.svg" />
 				<br />Vercel
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="prettier" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/prettier.svg" />
+				<img align="center" alt="prettier" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/tools/prettier.svg" />
 				<br />Prettier
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="eslint" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/eslint.svg" />
+				<img align="center" alt="eslint" width="30px" src="https://raw.github.com/krissh-codes/krissh-codes/master/blobs/tools/eslint.svg" />
 				<br />ESlint
 			</td>
 		</tr>
@@ -168,7 +168,7 @@ Other than coding, I'm passionate about Astronomy 🌌. I like to cook 🍳 in m
 		</td>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krissh-the-dev&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krissh-codes&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
 			</a>
 		</td>
 	</table>
