@@ -3,7 +3,7 @@
 <p align="center">
 	<a href="mailto:me@krissh.dev" target="_blank" align="center">Send Email</a> |
 	<a href="https://krissh.dev" target="_blank" align="center">Portfolio</a> |
-	<a href="https://polywork.com/krissh_the_dev" target="_blank" align="center">Polywork</a>
+	<a href="https://peerlist.io/krissh_seeks" target="_blank" align="center">Peerlist</a>
 </p>
 
 <!--- Removed
