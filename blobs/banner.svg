@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="504" viewBox="0 0 1584 504" fill="none">
+<svg width="1584" height="504" viewBox="0 0 1584 504" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_1464_62)">
-<rect width="1584" height="504" rx="12" fill="#2A2A2A"/>
+<rect width="1584" height="504" rx="24" fill="#2A2A2A" fill-opacity="0.8"/>
 <g clip-path="url(#clip1_1464_62)">
 <g filter="url(#filter0_f_1464_62)">
 <path d="M1298.71 408.33C1358.91 408.33 1407.71 353.261 1407.71 285.33C1407.71 217.399 1358.91 162.33 1298.71 162.33C1238.51 162.33 1189.71 217.399 1189.71 285.33C1189.71 353.261 1238.51 408.33 1298.71 408.33Z" fill="#9116FE"/>
@@ -31,7 +31,7 @@
 <feGaussianBlur stdDeviation="86" result="effect1_foregroundBlur_1464_62"/>
 </filter>
 <clipPath id="clip0_1464_62">
-<rect width="1584" height="504" rx="12" fill="white"/>
+<rect width="1584" height="504" rx="24" fill="white"/>
 </clipPath>
 <clipPath id="clip1_1464_62">
 <rect width="800" height="800" fill="white" transform="translate(721 -265)"/>
